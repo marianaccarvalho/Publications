@@ -13,7 +13,7 @@ Scientific articles, book chapters, posters and abstracts — AI/wearable health
 
 | Title | Year | Venue | Role |
 |---|---|---|---|
-| [MyEyes: An Automated Tool for Creating Clothing Catalog Databases](conference-papers/2024%20EAI%20DLI_An%20Automated%20Tool%20for%20Creating%20Clothing%20Catalog%20Databases%20MyEyes%E2%80%93Fashion%20.pdf) | 2024 | — | First author |
+| [MyEyes: An Automated Tool for Creating Clothing Catalog Databases](conference-papers/2024%20EAI%20DLI_An%20Automated%20Tool%20for%20Creating%20Clothing%20Catalog%20Databases%20MyEyes%E2%80%93Fashion%20.pdf) | 2024 | EAI DLI | First author |
 | [Development of a Wearable Device for Monitoring the Activity of Elderly People with Dementia: First Insights](conference-papers/2024%20SASYR_%20Development%20of%20a%20wearable%20device%20for%20monitoring%20the%20activity%20of%20elderly%20people%20with%20dementia%20first%20insights.pdf) | 2024 | SASYR | Co-author |
 | [A Comparison of Supervised Learning Models on Distinct Datasets for Malware Detection](conference-papers/2025%20ISDFS_A%20Comparison%20of%20Supervised%20Learning%20Models%20on%20Distinct%20Datasets%20for%20Malware%20Detection.pdf) | 2025 | ISDFS | First author |
 | [Powered Wearable Technologies for Dementia Care: Evaluating Activity Recognition Models and Dataset Challenges](conference-papers/2025%20BIOSTEC_Powered%20Wearable%20Technologies%20for%20Dementia%20Care-%20Evaluating%20Activity%20Recognition%20Models%20and%20Dataset%20Challenges.pdf) | 2025 | BIOSTEC | **First author** |
